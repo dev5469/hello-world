@@ -1,2 +1,8 @@
-# hello-world
-projeto particular
+# Ola, eu sou o Felipe.
+Estou cursando ADS.
+##  Linguagens que pratico.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
